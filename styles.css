@@ -1,0 +1,15 @@
+h1 {
+	color: rgb(35, 12, 237);
+	font-family: roboto;
+	text-align: center;
+}
+li {
+    display: inline;
+}
+p {
+    border: 5px solid rgb(134, 97, 200);
+    margin: 15px;
+  }
+  .rounded {
+    border-radius: 10px;
+  }
